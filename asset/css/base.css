@@ -1,0 +1,20 @@
+:root {
+    --color-one:#EFEFEF;
+    --color-two: #F3D9C3;
+    --color-text-one:#565656;
+    --color-text-two: white;
+    --color-text-three:#BBBBBB;
+    --color-text-icon:#000000;
+    --color-three: #1C2026;
+    --color-four:#DEE8EB;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.container {
+    top: 100px;
+    left: 150px;
+    
+}
